@@ -1,0 +1,21 @@
+{
+  "name": "karma-event-management",
+  "version": "1.0.0",
+  "description": "Karma Event Management & Hospitality - Premium destination weddings and luxury events",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "python3 -m http.server 8000"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "event-management",
+    "hospitality",
+    "luxury-events"
+  ],
+  "author": "Karma Event Management",
+  "license": "MIT"
+}
