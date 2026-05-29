@@ -1,0 +1,21 @@
+{
+  "name": "karma-event-management",
+  "version": "1.0.0",
+  "description": "Karma Event Management & Hospitality - Premium destination weddings and luxury events",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "event-management",
+    "hospitality",
+    "weddings"
+  ],
+  "author": "Kishan Mistry",
+  "license": "UNLICENSED"
+}
